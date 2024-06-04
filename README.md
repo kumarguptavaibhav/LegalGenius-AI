@@ -1,9 +1,6 @@
-# QuineLaw
+# LegalGenius-AI
 
 A platform that provide AI based legal guidance after breaking a country's law 
-
-
-
 
 
 ### Prerequisites
@@ -15,7 +12,7 @@ A platform that provide AI based legal guidance after breaking a country's law
 ### Clonning
 
 ```bash
-git clone https://github.com/kashhisshh/legalhub.git
+git clone https://github.com/kumarguptavaibhav/LegalGenius-AI.git
 ```
 
 ### Installation
