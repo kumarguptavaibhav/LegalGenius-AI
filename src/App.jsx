@@ -73,7 +73,7 @@ const Response = ({ response, isResponseAvailable }) => (
 );
 
 const MadeBy = () => (
-  <div className='made-by'><span role="img" aria-label="symbol">❤️</span>Made with love by Kashish</div>
+  <div className='made-by'><span role="img" aria-label="symbol">❤️</span>Made by Vaibhav Kumar Gupta</div>
 );
 
 const App = () => {
@@ -111,7 +111,7 @@ const App = () => {
   return (
     <div>
       <div className="navbar">
-        <h1>Legal<span style={{ color: 'blue' }}>Hub</span></h1>
+        <h1>LegalGenius<span style={{ color: 'blue' }}>AI</span></h1>
       </div>
       <Form
         country={country}
